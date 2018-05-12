@@ -1,0 +1,42 @@
+_repo: Satan-s-Diary_42665
+_version: 0.1.0
+contributor:
+  translator:
+    agent_name: Bernstein, Herman
+    birthdate: 1876
+    deathdate: 1935
+    gutenberg_agent_id: '1006'
+    url: http://www.gutenberg.org/2009/agents/1006
+covers:
+- cover_type: archival
+  image_path: 42665-h/images/cover-page.jpg
+creator:
+  author:
+    agent_name: Andreyev, Leonid
+    aliases:
+    - Андреев, Леонид Николаевич
+    - Andreyev, Leonid Nikolayevich
+    - Andreev, Leonid Nikolaevich
+    birthdate: 1871
+    deathdate: 1919
+    gutenberg_agent_id: '1871'
+    url: http://www.gutenberg.org/2009/agents/1871
+    wikipedia: http://en.wikipedia.org/wiki/Leonid_Andreyev
+description: ''
+gutenberg_issued: '2013-05-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '42665'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Good and evil -- Fiction'
+- !lcsh 'Diary fiction'
+- !lcsh 'Russian fiction -- Translations into English'
+- !lcsh 'Devil -- Fiction'
+- !lcc 'PG'
+- !lcsh 'Andreyev, Leonid, 1871-1919 -- Translations into English'
+title: Satan's Diary
+url: http://www.gutenberg.org/ebooks/42665
