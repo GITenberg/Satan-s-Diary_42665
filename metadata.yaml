@@ -23,6 +23,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1871
     wikipedia: http://en.wikipedia.org/wiki/Leonid_Andreyev
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/42665#Satan-s-Diary
 gutenberg_issued: '2013-05-08'
 gutenberg_type: Text
 identifiers:
